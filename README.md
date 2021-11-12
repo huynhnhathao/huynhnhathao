@@ -7,5 +7,4 @@
 - 🔭 I’m currently an undergraduate student, my major is data science. 
 - 🌱 I study machine learning, probability and linear algebra.
 - 📫 How to reach me: https://www.linkedin.com/in/haosleeper/
-- ⚡ Fun fact: fact is usually not fun!
 ---
