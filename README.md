@@ -6,6 +6,6 @@
 
 - 🔭 I’m currently an undergraduate student, my major is data science. 
 - 🌱 I am studying machine learning, probability and linear algebra.
-- :ghost: My blog posts: https://huynhnhathao.github.io/diamondhands/
+- :ghost: My blog: https://huynhnhathao.github.io/diamondhands/
 - 📫 How to reach me: https://www.linkedin.com/in/haosleeper/
 ---
