@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m an undergraduate student, my major is data science. 
-- 🌱 I am studying Blockchain tech, DeFi, Machine Learning, Probability and Linear algebra.
+- 🌱 I am studying Blockchain tech and DeFi.
 - :ghost: My blog: https://huynhnhathao.github.io/diamondhands/
 - 📫 How to reach me: https://www.linkedin.com/in/haosleeper/
 ---
