@@ -8,4 +8,5 @@
 - 🌱 I am studying Blockchain tech and DeFi.
 - :ghost: My blog: https://huynhnhathao.github.io/diamondhands/
 - 📫 How to reach me: https://www.linkedin.com/in/haosleeper/
+- Check out my Gas2USD app: https://share.streamlit.io/haoflash/gas2usd/main/core/app.py
 ---
