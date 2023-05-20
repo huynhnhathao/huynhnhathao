@@ -5,8 +5,6 @@
 -->
 - I am studying ML/DL again.
 - 🔭 I’m a software engineer, I write softwares related to blockchain and decentralized finance.
-- I write Golang and Python code.
-- I am also interested in Finance in general(specifically the financial market). Philosophy, psychology and music are the subjects I read about to kill my free time.
 - :ghost: My blog: https://huynhnhathao.github.io/diamondhands/
 - 📫 How to reach me: https://www.linkedin.com/in/haosleeper/
 ---
